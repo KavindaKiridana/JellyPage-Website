@@ -85,3 +85,9 @@
 
 <!--footer-->
 <?php include('footer.php') ?>
+
+<!-- 
+edited by kavinda kiridana
+more information go to this link below
+https://www.linkedin.com/in/kavinda-kiridana-8a330521a/
+ -->

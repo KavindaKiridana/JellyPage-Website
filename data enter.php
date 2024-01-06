@@ -15,3 +15,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     header('Location: index.php');
     exit;
 }
+
+//edited by kavinda kiridana
+//more information go to this link below
+//https://www.linkedin.com/in/kavinda-kiridana-8a330521a/
